@@ -5,10 +5,10 @@ Modern UI/UX based React.js Web Application
 ## Overview
 
 This is a modern UI/UX based React.js web application built using Vite.js and Tailwind.css. The application provides a user-friendly interface for users to perform various tasks such as login, signup, and profile management. It also includes various features such as responsive design, dynamic routing, and form validation.
-The WebApp is live at this link: https://webot-taniskajha.netlify.app
+The WebApp is live at this link: https://hindbank-service.onrender.com
 
 
-![mainpg](client/assets/ss1.png)
+![mainpg](client/src/assets/ss1.png)
 
 ## Installation
 
