@@ -8,7 +8,7 @@ This is a modern UI/UX based React.js web application built using Vite.js and Ta
 The WebApp is live at this link: https://hindbank-service.onrender.com
 
 
-![mainpg](client/src/assets/ss1.png)
+![mainpg](Hind-Bank_WebApp/src/assets/ss1.png)
 
 ## Installation
 
