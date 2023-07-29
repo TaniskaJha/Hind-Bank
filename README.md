@@ -1,6 +1,6 @@
 ## Hind-Bank
 
-#Modern UI/UX based React.js Web Application
+Modern UI/UX based React.js Web Application
 
 ## Overview
 
